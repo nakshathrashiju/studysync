@@ -4,11 +4,11 @@ The user interface for StudySync was designed in Figma.
 
 📱 Screens
 
-![Splash Screen](Splash Screen)
+![Splash Screen](Splash Screen.png)
 
-![Login Screen](Login Screen)
+![Login Screen](Login Screen.png)
 
-![Home Screen](Home Screen)
+![Home Screen](Home Screen.png)
 
 ![Schedule Screen](Schedule Screen.png)
 
