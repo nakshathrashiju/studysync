@@ -15,3 +15,6 @@ The user interface for StudySync was designed in Figma.
 ![Tasks Screen](Tasks%20Screen.png)
 
 ![Notes Screen](Notes%20Screen.png)
+
+The user interface for StudySync was designed in Figma.
+🔗 [View Figma Prototype](https://www.figma.com/proto/seRpVFZ6er2DOSvMMNjvIh/Studysync?node-id=0-1&t=ToIkYkXfOLLD0iA6-1)
